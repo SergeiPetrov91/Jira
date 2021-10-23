@@ -32,7 +32,7 @@ see it.
 3. Select the more icon (...) in the upper right. Select Configure. You are brought to the Issue
 layout screen under Project settings for the projectA project (you could have navigated there 
 
-List_2
+
 directly). This screen shows the primary and secondary fields that are shown on the issue details
 screen for users of this project.
 4. Explore this issue layout screen. Notice that any changes we make here will apply to all of the issue
@@ -68,7 +68,7 @@ project (excluding bugs). Click Update.
 9. You should now see your Acceptance Criteria custom field in the list of custom fields. It should
 be associated with your Kanban Default Issue Screen.
 
-List_3
+
 10. Navigate to your projectA project and view the issue details for an issue of any type except bug.
 You should see an Acceptance Criteria text area. In the text area, you can enter User must be
 able to enter an email address. .
